@@ -2,6 +2,6 @@
 
 server-section: server normal update
 client-section: baseline
-shared-section: baseline
+shared-section: server conflict choice
 retry-section: baseline
 outage-section: baseline
