@@ -9,3 +9,5 @@
 - Validation repositories: `sanho-server`, `sanho-client`, and `sanho-docs`.
 
 This record is intentionally retained as evidence of the real-remote validation run.
+
+The client workspace successfully published this line back to the canonical docs repository.
