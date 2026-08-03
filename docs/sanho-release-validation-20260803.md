@@ -6,3 +6,4 @@
 - 실행 환경: 격리 `sanhod`, 격리 server/client/docs clone
 - 검증 범위: docs push/pull, dirty layer 보존, main publication, alias 및 직접 URL 차단
 - 검증 방식: fast-forward only, force push 없음
+- 역방향 검증: sanho-client에서 canonical docs로 정상 게시
