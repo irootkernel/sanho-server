@@ -1,0 +1,1 @@
+Sanho v0.1.6 hook trust boundary validation 2026-08-05
