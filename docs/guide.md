@@ -9,3 +9,5 @@ outage-section: baseline
 ## Hands-on 182726
 
 Server entry.
+
+Rewrite-era entry.
