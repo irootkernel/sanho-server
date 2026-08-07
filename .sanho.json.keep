@@ -1,0 +1,8 @@
+{
+  "schema_version": 2,
+  "workspace_id": "h02a:/private/tmp/claude-501/-Users-draccoon-Workspace-RootKernel-dolgorae-sanho/e7873caa-58e4-49cc-84de-9ebefaf3c65d/scratchpad/handson-final/sanho-server",
+  "project": "h02a",
+  "docs_repo_url": "git@github-irootkernel:irootkernel/sanho-docs.git",
+  "actor_email": "h02a@rootkernel.xyz",
+  "docs_dir": "docs"
+}
