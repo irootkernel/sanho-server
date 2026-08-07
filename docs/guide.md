@@ -11,3 +11,5 @@ outage-section: baseline
 Server entry.
 
 Rewrite-era entry.
+
+Post-rewrite marker.
