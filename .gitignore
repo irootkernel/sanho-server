@@ -8,3 +8,5 @@
 .sanho_workspace_report
 .sanho_base.json
 .sanho_pending_fix
+.sanho*.tmp-*
+..sanho*.tmp-*
