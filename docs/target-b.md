@@ -1,0 +1,1 @@
+Symlink conflict target B.

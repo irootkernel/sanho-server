@@ -1,1 +1,1 @@
-./target-a.md
+./target-b.md
