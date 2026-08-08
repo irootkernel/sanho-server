@@ -11,3 +11,4 @@
 .sanho*.tmp-*
 ..sanho*.tmp-*
 .sanho.json.bak
+.sanho_docs_hash.bak
