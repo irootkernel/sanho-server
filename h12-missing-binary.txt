@@ -1,0 +1,1 @@
+H12 commit-path hooks fail open when the installed binary is absent.
