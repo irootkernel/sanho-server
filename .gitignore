@@ -10,3 +10,4 @@
 .sanho_pending_fix
 .sanho*.tmp-*
 ..sanho*.tmp-*
+.sanho.json.bak
