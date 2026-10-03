@@ -2,4 +2,4 @@
 
 This document is synthetic test data for the dedicated Sanho test repositories.
 
-Stage: server recovery branch
+Stage: client roundtrip and server recovery verified
