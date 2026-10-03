@@ -2,4 +2,4 @@
 
 This document is synthetic test data for the dedicated Sanho test repositories.
 
-Stage: server publication
+Stage: server recovery branch
